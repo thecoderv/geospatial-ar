@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(MainActivity.this, UnityPlayerActivity.class);
-                i.putExtra("result", "BlankAR");
+                i.putExtra("result", "SphereMaker");
                 startActivityForResult(i, LAUNCH_SECOND_ACTIVITY);
             }
         });
