@@ -1,0 +1,26 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.UnityTechnologies.XR.Manifest" >
+4
+5    <uses-sdk android:minSdkVersion="1" />
+6
+7    <uses-permission android:name="android.permission.CAMERA" />
+7-->C:\Users\mural\AndroidStudioProjects\MyApplication2\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:3:3-62
+7-->C:\Users\mural\AndroidStudioProjects\MyApplication2\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:3:20-60
+8
+9    <uses-feature
+9-->C:\Users\mural\AndroidStudioProjects\MyApplication2\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:4:3-81
+10        android:name="android.hardware.camera"
+10-->C:\Users\mural\AndroidStudioProjects\MyApplication2\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:4:17-55
+11        android:required="true" />
+11-->C:\Users\mural\AndroidStudioProjects\MyApplication2\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:4:56-79
+12
+13    <application>
+13-->C:\Users\mural\AndroidStudioProjects\MyApplication2\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:5:3-8:17
+14        <activity android:name="com.unity3d.player.UnityPlayerActivity" >
+14-->C:\Users\mural\AndroidStudioProjects\MyApplication2\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:6:5-7:16
+14-->C:\Users\mural\AndroidStudioProjects\MyApplication2\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:6:15-68
+15        </activity>
+16    </application>
+17
+18</manifest>
